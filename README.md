@@ -35,6 +35,7 @@ PLCs run most of the machines in factories, water plants and warehouses, but the
 - [PLC Fiddle](https://www.plcfiddle.com/) - Minimal ladder logic editor and simulator that runs in the browser. 🆓
 - [PLC Simulator](https://plcsimulationsoftware.com/) - Browser-based ladder logic practice against simulated machines with automatic grading, plus wiring and HMI exercises; free tier and a no-install first exercise. 🆓/💵 (Disclosure: maintained by the author of this list.)
 - [OpenPLC Editor](https://github.com/thiagoralves/OpenPLC_Editor) - Open-source IEC 61131-3 editor with a built-in simulation mode. 🆓
+- [The Work Gym PLC course](https://theworkgym.com/plc/) - Browser ladder logic simulator with contacts, timers and counters on fictional machines, traced scan by scan, with each exercise checked. 🆓/💵
 
 ## Tutorials and Courses
 
